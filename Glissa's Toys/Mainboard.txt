@@ -2,7 +2,9 @@
 1 Acorn Catapult #Give Chumps
 1 Arcane Signet #Ramp
 1 Assassin's Trophy #Interaction
+1 Automated Artificer #Ramp
 1 Beast Within #Interaction
+1 Boseiju, Who Endures
 1 Brainstone #Card Advantage
 1 Buried Ruin
 1 Burnished Hart #Ramp
@@ -10,9 +12,9 @@
 1 Castle Locthwain
 1 Chromatic Sphere #Toy
 1 Chromatic Star #Toy
+1 Circuit Mender #Toy
 1 Command Tower
 1 Commander's Sphere #Ramp
-1 Cranial Plating #Value
 1 Darkbore Pathway / Slitherbore Pathway
 1 Darksteel Citadel
 1 Darksteel Plate #Protection
@@ -22,13 +24,11 @@
 1 Expedition Map #Toy
 1 Filigree Familiar #Card Advantage
 1 Forbidden Orchard
-5 Forest
+4 Forest
 1 Foundry Inspector #Value
 1 Genesis Chamber #Give Chumps
 1 Golden Egg #Toy
 1 Grismold, the Dreadsower #Give Chumps
-1 Guild Globe #Toy
-1 Hedron Archive #Ramp
 1 Heroic Intervention #Protection
 1 Horizon Spellbomb #Toy
 1 Ichor Wellspring #Toy
@@ -46,7 +46,6 @@
 1 Mirrorworks #Value
 1 Mishra's Bauble #Toy
 1 Moonsilver Key #Ramp
-1 Moriok Replica #Card Advantage
 1 Myr Battlesphere #Wincon
 1 Myr Retriever #Card Advantage
 1 Mystic Forge #Card Advantage
@@ -59,9 +58,9 @@
 1 Plaguecrafter #Interaction
 1 Putrefy #Interaction
 1 Ravenous Squirrel #Card Advantage
+1 Reckoner's Bargain #Card Advantage
 1 Reliquary Tower *F*
 1 Scrap Trawler #Toy
-1 Seed the Land #Give Chumps
 1 Shadowspear #Value
 1 Shimmer Myr #Value
 1 Sol Ring #Ramp
@@ -77,6 +76,8 @@
 1 Treasure Keeper #Card Advantage
 1 Treasure Vault
 1 Tree of Tales
+1 Tribute to Horobi / Echo of Death's Wail #Give Chumps
+1 Undercity Scrounger #Value
 1 Undergrowth Stadium
 1 Urborg, Tomb of Yawgmoth
 1 Urza's Saga

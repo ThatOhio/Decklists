@@ -1,8 +1,13 @@
 1 Bolas's Citadel #Wincon
+1 Cranial Plating #Value
 1 Deadly Dispute #Card Advantage
+1 Guild Globe #Toy
+1 Hedron Archive #Ramp
 1 Ichor Wellspring #Toy
+1 Moriok Replica #Card Advantage
 1 Mycosynth Wellspring #Toy
 1 Reanimate #Value
 1 Scrapyard Recombiner
+1 Seed the Land #Give Chumps
 1 Sensei's Divining Top #Card Advantage
 1 Thornbite Staff #Interaction
