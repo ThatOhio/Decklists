@@ -1,0 +1,79 @@
+1 Academy Manufactor #Value City
+1 Arcane Signet #Ramp
+1 Atsushi, the Blazing Sky #Exile Top
+1 Birgi, God of Storytelling / Harnfel, Horn of Bounty #Exile Top
+1 Bituminous Blast #Interaction
+1 Blasphemous Act #Board Wipe
+1 Blightstep Pathway / Searstep Pathway
+1 Blood Crypt
+1 Bojuka Bog
+1 Castle Locthwain
+1 Chandra, Dressed to Kill #Exile Top
+1 Chandra, Fire Artisan #Exile Top
+1 Chandra, Torch of Defiance #Exile Top
+1 Chaos Wand #Other cast from exile
+1 Chaos Warp #Interaction
+1 Command Beacon
+1 Command Tower
+1 Dark Ritual #Ramp
+1 Dauthi Voidwalker #Other cast from exile
+1 Dragonskull Summit
+1 Etali, Primal Storm #Other cast from exile
+1 Exotic Orchard
+1 Fabled Passage
+1 Feed the Swarm #Interaction
+1 Fellwar Stone #Ramp
+1 Florian, Voldaren Scion #Exile Top
+1 Galvanic Relay #Exile Top
+1 Goldspan Dragon #Value City
+1 Graven Cairns
+1 Grim Hireling #Interaction
+1 Haunted Ridge
+1 Hidetsugu, Devouring Chaos #Exile Top
+1 Hurl Through Hell #Interaction
+1 Ignite the Future #Exile Top
+1 Jeska's Will #Exile Top
+1 Kalain, Reclusive Painter #Ramp
+1 Kami of Celebration #Other cast from exile
+1 Laelia, the Blade Reforged #Exile Top
+1 Light Up the Stage #Exile Top
+1 Lightning Greaves #Protect Prosper
+1 Magda, Brazen Outlaw #Value City
+1 Magmatic Channeler #Exile Top
+1 March of Reckless Joy #Exile Top
+1 Marionette Master #Treasure Sac Payoff Wincon
+1 Mayhem Devil #Treasure Sac Payoff Wincon
+1 Mind Stone #Ramp
+1 Mizzix's Mastery #Other cast from exile
+14 Mountain
+1 Murderous Rider / Swift End #Interaction
+1 Nadier's Nightblade #Treasure Sac Payoff Wincon
+1 Nashi, Moon Sage's Scion #Other cast from exile
+1 Outpost Siege #Exile Top
+1 Ragavan, Nimble Pilferer #Ramp
+1 Rakdos Signet #Ramp
+1 Reckless Fireweaver #Treasure Sac Payoff Wincon
+1 Reckless Impulse #Exile Top
+1 Revel in Riches #Alt wincon
+1 Shatterskull Smashing / Shatterskull, the Hammer Pass #Interaction
+1 Sol Ring #Ramp
+1 Spinerock Knoll
+8 Swamp
+1 Swiftfoot Boots #Protect Prosper
+1 Tainted Peak
+1 Talisman of Indulgence #Ramp
+1 Tectonic Giant #Exile Top
+1 Terminate #Interaction
+1 Theater of Horrors #Exile Top
+1 Thought Vessel #Ramp
+1 Throes of Chaos #Other cast from exile
+1 Tibalt's Trickery #Interaction
+1 Toxic Deluge #Board Wipe
+1 Treasure Map / Treasure Cove #Value City
+1 Treasure Vault
+1 Valakut Exploration #Exile Top
+1 Vance's Blasting Cannons / Spitfire Bastion #Exile Top
+1 Vandalblast #Board Wipe
+1 Wild-Magic Sorcerer #Value City
+1 Xorn #Value City
+1 You Find Some Prisoners #Interaction
