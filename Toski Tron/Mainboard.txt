@@ -3,64 +3,61 @@
 1 Acidic Slime #Interaction
 1 Akroma's Memorial #Untap or Vigi
 1 Alpha Authority #Modifications
-1 Arasta of the Endless Web #Go Wide
-1 Avenger of Zendikar #Go Wide
 1 Bala Ged Recovery / Bala Ged Sanctuary #Graveyard Recursion
-1 Basilisk Collar #Modifications
 1 Batterskull #Modifications
 1 Beast Within #Interaction
 1 Bellowing Tanglewurm #Evasion
+1 Birds of Paradise #Ramp
+1 Blackblade Reforged #Knife
 1 Blighted Woodland
 1 Blossoming Defense #Protection
 1 Bonders' Enclave
+1 Boseiju, Who Endures
 1 Bow of Nylea #Evasion
-1 Broken Bond #Interaction
 1 Canopy Cover #Protection
 1 Chord of Calling *F* #Card Adv
 1 Colossal Majesty #Card Adv
 1 Command Beacon
-1 Cultivate #Ramp
-1 End-Raze Forerunners #Overrun
 1 Eternal Witness #Graveyard Recursion
 1 Explore #Ramp
-1 Explosive Vegetation #Ramp
 1 Field of Ruin
-24 Forest
+21 Forest
 1 Gemrazer #Interaction
 1 Green Sun's Zenith #Card Adv
 1 Harmonize #Card Adv
 1 Haunted Cloak #Modifications
 1 Heroic Intervention #Protection
-1 Jolrael, Mwonvuli Recluse #Go Wide
+1 High Market
+1 Homeward Path
+1 Instill Energy #Untap or Vigi
+1 Jolrael, Mwonvuli Recluse #Value
 1 Kenrith's Transformation #Interaction
 1 Khalni Ambush / Khalni Territory #Interaction
-1 Kodama's Reach #Ramp
-1 Krosan Grip #Interaction
-1 Lightning Greaves #Protection
+1 Llanowar Elves #Ramp
+1 Llanowar Visionary #Ramp
+1 Maze of Ith
 1 Myriad Landscape
+1 Nature's Lore #Ramp
 1 Noxious Revival #Graveyard Recursion
-1 Nylea, God of the Hunt #Trample
 1 Ohran Frostfang #Card Adv
 1 Old Gnawbone #Value
 1 Opal Palace
-1 Overwhelming Stampede #Overrun
 1 Pariah's Shield #Modifications
 1 Praetor's Counsel #Graveyard Recursion
+1 Ram Through #Interaction
 1 Rampant Growth #Ramp
 1 Rancor #Modifications
 1 Ranger's Guile #Protection
 1 Reclaim #Graveyard Recursion
-1 Reclamation Sage #Interaction
 1 Regrowth #Graveyard Recursion
 1 Reliquary Tower *F*
 1 Return of the Wildspeaker #Card Adv
 1 Return to Nature #Interaction
-1 Rhonas's Monument #Ramp
-1 Ring of Kalonia #Modifications
+1 Road of Return #Graveyard Recursion
 1 Rogue's Passage
 1 Roiling Regrowth #Ramp
-1 Rune of Might #Modifications
 1 Sakura-Tribe Elder #Ramp
+1 Saryth, the Viper's Fang #Untap or Vigi
 1 Seedborn Muse #Untap or Vigi
 1 Shadowspear #Modifications
 1 Silent Arbiter #Value
@@ -68,9 +65,15 @@
 1 Sol Ring #Ramp
 1 Staff of Domination #Untap or Vigi
 1 Swiftfoot Boots #Protection
-1 Sword of the Paruns #Modifications
-1 Sword of Vengeance #Modifications
+1 Sword of Fire and Ice #Knife
+1 Sword of Light and Shadow #Knife
+1 Sword of Sinew and Steel #Knife
+1 Sword of the Animist #Knife
+1 Sword of Truth and Justice #Knife
+1 Sword of Vengeance #Knife
+1 Sword of War and Peace #Knife
 1 The Great Henge #Card Adv
-1 Vivien, Champion of the Wilds #Untap or Vigi
+1 Three Visits #Ramp
+1 Veil of Summer #Protection
 1 War Room
 1 Wilt #Interaction
