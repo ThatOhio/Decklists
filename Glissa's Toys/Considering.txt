@@ -1,13 +1,32 @@
 1 Bolas's Citadel #Wincon
+1 Chromatic Sphere #Toy
 1 Cranial Plating #Value
-1 Deadly Dispute #Card Advantage
+1 Executioner's Capsule #Kill Chumps
+1 Fountain of Renewal #Artifact Draw Fodder
+1 Genesis Chamber #Give Chumps
 1 Guild Globe #Toy
 1 Hedron Archive #Ramp
-1 Ichor Wellspring #Toy
+1 Horizon Spellbomb #Toy
+1 Ichor Wellspring #Artifact Draw Fodder
+1 Implement of Ferocity #Toy
+1 Lifespark Spellbomb #Artifact Draw Fodder
+1 Lightning Greaves #Protection
+1 Marionette Master #Drain Wincon
+1 Metalwork Colossus #Wincon
 1 Moriok Replica #Card Advantage
 1 Mycosynth Wellspring #Toy
+1 Myr Battlesphere #Wincon
+1 Putrefy #Interaction
 1 Reanimate #Value
+1 Runed Servitor #Sac and Value (Creature)
+1 Scarecrone #Value
 1 Scrapyard Recombiner
-1 Seed the Land #Give Chumps
 1 Sensei's Divining Top #Card Advantage
+1 Shadowspear #Value
+1 Skullclamp #Card Advantage
+1 Soul-Guide Lantern #Toy
 1 Thornbite Staff #Interaction
+1 Undercity Scrounger #Value
+1 Underhanded Designs #Drain Wincon
+1 Viridian Longbow #Interaction
+1 Vraska, Golgari Queen #Interaction

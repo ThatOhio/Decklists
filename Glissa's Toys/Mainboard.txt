@@ -1,8 +1,11 @@
 1 Abrupt Decay #Interaction
 1 Acorn Catapult #Give Chumps
+1 Alchemist's Vial #Artifact Draw Fodder
 1 Arcane Signet #Ramp
+1 Arcbound Ravager *F* #Sac Outlet Wincon
 1 Assassin's Trophy #Interaction
 1 Automated Artificer #Ramp
+1 Bastion of Remembrance #Drain Wincon
 1 Beast Within #Interaction
 1 Boseiju, Who Endures
 1 Brainstone #Card Advantage
@@ -10,9 +13,8 @@
 1 Burnished Hart #Ramp
 1 Cabal Coffers
 1 Castle Locthwain
-1 Chromatic Sphere #Toy
-1 Chromatic Star #Toy
-1 Circuit Mender #Toy
+1 Chromatic Star #Artifact Draw Fodder
+1 Circuit Mender #Sac and Value (Creature)
 1 Command Tower
 1 Commander's Sphere #Ramp
 1 Darkbore Pathway / Slitherbore Pathway
@@ -20,72 +22,72 @@
 1 Darksteel Plate #Protection
 1 Deadly Dispute #Card Advantage
 1 Deathcap Glade
-1 Executioner's Capsule #Interaction
-1 Expedition Map #Toy
-1 Filigree Familiar #Card Advantage
+1 Dockside Chef #Sac Outlet
+1 Expedition Map #Ramp
+1 Eye of Vecna #Artifact Draw Fodder
+1 Filigree Familiar #Sac and Value (Creature)
 1 Forbidden Orchard
-4 Forest
+2 Forest
 1 Foundry Inspector #Value
-1 Genesis Chamber #Give Chumps
-1 Golden Egg #Toy
+1 Golden Egg #Artifact Draw Fodder
+1 Golgari Charm #Kill Chumps
 1 Grismold, the Dreadsower #Give Chumps
 1 Heroic Intervention #Protection
-1 Horizon Spellbomb #Toy
-1 Ichor Wellspring #Toy
-1 Implement of Ferocity #Toy
+1 Ichor Wellspring #Artifact Draw Fodder
+1 Illness in the Ranks #Kill Chumps
 1 Inventors' Fair
 1 Jhoira's Familiar #Value
-1 Krark-Clan Ironworks #Value
-1 Lifespark Spellbomb #Toy
-1 Lightning Greaves #Protection
+1 Krark-Clan Ironworks #Sac Outlet
 1 Llanowar Wastes
-1 Marionette Master #Wincon
-1 Metalwork Colossus #Wincon
 1 Mind Stone #Ramp
 1 Mirage Mirror #Value
 1 Mirrorworks #Value
-1 Mishra's Bauble #Toy
+1 Mishra's Bauble #Artifact Draw Fodder
 1 Moonsilver Key #Ramp
-1 Myr Battlesphere #Wincon
-1 Myr Retriever #Card Advantage
+1 Myr Retriever #Sac and Value (Creature)
 1 Mystic Forge #Card Advantage
 1 Noxious Gearhulk #Interaction
 1 Overgrown Tomb
+1 Papercraft Decoy #Sac and Value (Creature)
 1 Phyrexian Arena #Card Advantage
 1 Phyrexian Scriptures #Board Wipe
 1 Phyrexian Tower
 1 Phyrexia's Core
 1 Plaguecrafter #Interaction
-1 Putrefy #Interaction
-1 Ravenous Squirrel #Card Advantage
+1 Psychosis Crawler #Drain Wincon
+1 Ravenous Squirrel #Sac Outlet Wincon
 1 Reckoner's Bargain #Card Advantage
 1 Reliquary Tower *F*
-1 Scrap Trawler #Toy
-1 Shadowspear #Value
+1 Ruthless Technomancer #Sac Outlet
+1 Scrap Trawler #Sac and Value (Creature)
+1 Seed the Land #Give Chumps
 1 Shimmer Myr #Value
+1 Skyscanner #Sac and Value (Creature)
 1 Sol Ring #Ramp
-1 Solemn Simulacrum #Toy
+1 Solemn Simulacrum #Sac and Value (Creature)
 1 Soul of New Phyrexia #Protection
-1 Soul-Guide Lantern #Toy
+1 Spare Supplies #Artifact Draw Fodder
+1 Staff of Nin #Kill Chumps
 6 Swamp
+1 Swiftfoot Boots #Protection
 1 Tainted Wood
+1 Takenuma, Abandoned Mire
 1 Talisman of Resilience #Ramp
+1 The Meathook Massacre #Board Wipe
 1 Thespian's Stage
-1 Thornbite Staff #Interaction
-1 Trading Post #Toy
-1 Treasure Keeper #Card Advantage
+1 Trading Post #Sac Outlet
+1 Treasure Chest *F* #Artifact Draw Fodder
+1 Treasure Keeper #Sac and Value (Creature)
 1 Treasure Vault
 1 Tree of Tales
 1 Tribute to Horobi / Echo of Death's Wail #Give Chumps
-1 Undercity Scrounger #Value
 1 Undergrowth Stadium
 1 Urborg, Tomb of Yawgmoth
 1 Urza's Saga
 1 Vault of Whispers
 1 Verdant Catacombs
-1 Viridian Longbow #Interaction
-1 Vraska, Golgari Queen #Card Advantage
+1 Virulent Plague #Kill Chumps
 1 Wayfarer's Bauble #Ramp
 1 Woodland Cemetery
-1 Wurmcoil Engine #Wincon
+1 Wurmcoil Engine #Sac and Value (Creature)
 1 Yavimaya, Cradle of Growth
